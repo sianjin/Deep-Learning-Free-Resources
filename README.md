@@ -27,7 +27,6 @@
 
 This project aims at listing great free resources that I have read and watched online. The resources can be blogs, lectures, talks, tutorials, code repositories, etc.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Attention -->
 ## Attention
