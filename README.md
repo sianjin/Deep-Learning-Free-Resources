@@ -43,7 +43,7 @@ This project aims at listing great free resources that I have read and watched o
 ### YouTube Videos
 | Name  | Short Description |
 | :------------ |:---------------:|
-| [(Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY&t=1s)     | Illustration of attention is all you need paper.  |
+| [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY&t=1s)     | Illustration of attention is all you need paper.  |
 
 
 
