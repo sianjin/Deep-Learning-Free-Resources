@@ -36,7 +36,7 @@ This project aims at listing great free resources that I have read and watched o
 | Name  | Short Description |
 | :------------ |:---------------:|
 | [Attention for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=PSs6nxngL6k)     | Why and how to add attention to a basic Sequence-to-Sequence.  |
-Why
+
 <!-- Transformer -->
 
 ## Transformers
