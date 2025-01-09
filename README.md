@@ -27,15 +27,15 @@
   <ol>
     <li>
       <a href="#math">Math</a>
-    </li>
-    <li>
-      <a href="#linear-algebra">Linear Algebra</a>
-    </li>
-    <li>
-      <a href="#probability">Probability</a>
-    </li>
-    <li>
-      <a href="#optimization">Optimization</a>
+      <li>
+        <a href="#linear-algebra">Linear Algebra</a>
+      </li>
+      <li>
+        <a href="#probability">Probability</a>
+      </li>
+      <li>
+        <a href="#optimization">Optimization</a>
+      </li>
     </li>
     <li>
       <a href="#transformers">Transformers</a>
