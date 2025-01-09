@@ -27,20 +27,17 @@
   <ol>
     <li>
       <a href="#math">Math</a>
-    </li>
-      <li>
+      <ul>
         <a href="#linear-algebra">Linear Algebra</a>
-      </li>
-      <li>
         <a href="#probability">Probability</a>
-      </li>
-      <li>
         <a href="#optimization">Optimization</a>
-      </li>
-  </ol>  
-  </ol>  
+      </ul>
+    </li>
     <li>
-      <a href="#transformers">Transformers</a>
+      <a href="#deep-learning">Deep Learning</a>
+      <ul>
+        <a href="#transformers">Transformers</a>
+      </ul>
     </li>
   </ol>
 </details>
@@ -63,7 +60,10 @@
 <!-- Optimization -->
 ###  Optimization
 
-<!-- Transformer -->
+<!-- Deep Learning -->
+## Deep Learning
+
+<!-- Transformers -->
 
 ### Transformers
 
