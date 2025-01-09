@@ -27,11 +27,18 @@
 
 This project aims at listing great free resources that I have read and watched online. The resources can be blogs, lectures, talks, tutorials, code repositories, etc.
 
+<!-- Linear Algebra -->
+## Linear Algebra
+
+### Linear equations
+| Name  | Short Description |
+| :------------ |:---------------:|
+| [Don’t invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)  | Inverting a matrix is expensive.  |
+| [COS 302: Matrix Inversion](https://www.youtube.com/watch?v=5aPP9tGgC-s)   | Inverting a matrix is not numerically stable.  |
 
 <!-- Attention -->
 ## Attention
 
-### YouTube Videos
 | Name  | Short Description |
 | :------------ |:---------------:|
 | [Attention for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=PSs6nxngL6k)     | Why and how to add attention to a basic Sequence-to-Sequence.  |
@@ -40,7 +47,6 @@ This project aims at listing great free resources that I have read and watched o
 
 ## Transformers
 
-### YouTube Videos
 | Name  | Short Description |
 | :------------ |:---------------:|
 | [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY&t=1s)     | Illustration of attention is all you need paper.  |
