@@ -26,7 +26,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#math">Math</a>
     </li>
     <li>
       <a href="#linear-algebra">Linear Algebra</a>
@@ -43,10 +43,8 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-This project aims at listing great free resources that I have read and watched online. The resources can be blogs, lectures, talks, tutorials, code repositories, etc.
+<!-- Math -->
+## Math
 
 <!-- Linear Algebra -->
 ### Linear Algebra
