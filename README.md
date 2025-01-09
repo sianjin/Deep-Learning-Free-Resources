@@ -21,6 +21,21 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    </li>
+    <li>
+      <a href="#linear-algebra">Linear Algebra</a>
+    </li>
+    <li>
+      <a href="#transformers">Transformers</a>
+    </li>
+  </ol>
+</details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
