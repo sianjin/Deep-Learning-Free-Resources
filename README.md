@@ -32,6 +32,12 @@
       <a href="#linear-algebra">Linear Algebra</a>
     </li>
     <li>
+      <a href="#probability">Probability</a>
+    </li>
+    <li>
+      <a href="#optimization">Optimization</a>
+    </li>
+    <li>
       <a href="#transformers">Transformers</a>
     </li>
   </ol>
@@ -51,6 +57,11 @@ This project aims at listing great free resources that I have read and watched o
 | [Don’t invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)  | Inverting a matrix is expensive.  |
 | [COS 302: Matrix Inversion](https://www.youtube.com/watch?v=5aPP9tGgC-s)   | Inverting a matrix is not numerically stable.  |
 
+<!-- Probability -->
+## Probability
+
+<!-- Optimization -->
+##  Optimization
 
 <!-- Transformer -->
 
