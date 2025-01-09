@@ -28,9 +28,9 @@
     <li>
       <a href="#math">Math</a>
       <ul>
-        <a href="#linear-algebra">Linear Algebra</a>
-        <a href="#probability">Probability</a>
-        <a href="#optimization">Optimization</a>
+        <li><a href="#linear-algebra">Linear Algebra</a><li>
+        <li><a href="#probability">Probability</a><li>
+        <li><a href="#optimization">Optimization</a><li>
       </ul>
     </li>
     <li>
