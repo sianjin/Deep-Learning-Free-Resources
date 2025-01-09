@@ -28,15 +28,15 @@
     <li>
       <a href="#math">Math</a>
       <ul>
-        <li><a href="#linear-algebra">Linear Algebra</a><li>
-        <li><a href="#probability">Probability</a><li>
-        <li><a href="#optimization">Optimization</a><li>
+        <li><a href="#linear-algebra">Linear Algebra</a></li>
+        <li><a href="#probability">Probability</a></li>
+        <li><a href="#optimization">Optimization</a></li>
       </ul>
     </li>
     <li>
       <a href="#deep-learning">Deep Learning</a>
       <ul>
-        <li><a href="#transformers">Transformers</a><li>
+        <li><a href="#transformers">Transformers</a></li>
       </ul>
     </li>
   </ol>
