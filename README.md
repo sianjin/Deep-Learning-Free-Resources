@@ -109,6 +109,7 @@
 | Name  | Short Description |
 | :------------ |:---------------:|
 | [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY&t=1s)     | Illustration of attention is all you need paper.  |
+| [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)     | Illustration of attention is all you need paper.  |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
