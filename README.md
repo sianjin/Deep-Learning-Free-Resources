@@ -99,16 +99,20 @@
 ### Transformers
 
 #### Attention
+This section illustrates why and how to combine attention mechanism with a Sequence-to-Sequence network.
+
 | Name  | Short Description |
 | :------------ |:---------------:|
-| [Attention for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=PSs6nxngL6k)     | Why and how to add attention to a basic Sequence-to-Sequence.  |
+| [Attention for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=PSs6nxngL6k)     |  Great motivation of attention mechanism: which word needs to come first. |
+[Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)      | Overview of the difference between Sequence-to-Sequence and Sequence-to-Sequence with attention.  |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### Basic Transformer Neural Networks
+#### Basic Transformers Network Achitecture
+This section illustrates the attention mechanism from the paper "[Attention Is All You Need](https://arxiv.org/abs/1706.03762)".
 | Name  | Short Description |
 | :------------ |:---------------:|
-| [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY&t=1s)     | Illustration of attention is all you need paper.  |
+| [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY&t=1s)     | Best positional encoding illustration.  |
 | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)     | Illustration of attention is all you need paper.  |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
