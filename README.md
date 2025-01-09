@@ -34,6 +34,12 @@
       </ul>
     </li>
     <li>
+      <a href="#machine-learning">Machine Learning</a>
+      <ul>
+        <li><a href="#trees">Trees</a></li>
+      </ul>
+    </li>
+    <li>
       <a href="#deep-learning">Deep Learning</a>
       <ul>
         <li><a href="#transformers">Transformers</a></li>
@@ -66,11 +72,17 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- Machine Learning -->
+## Machine Learning
+
+<!-- Trees -->
+### Trees
+
 <!-- Deep Learning -->
 ## Deep Learning
 
 <!-- Transformers -->
-
 ### Transformers
 
 #### Attention
