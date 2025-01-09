@@ -54,11 +54,17 @@
 | [Don’t invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)  | Inverting a matrix is expensive.  |
 | [COS 302: Matrix Inversion](https://www.youtube.com/watch?v=5aPP9tGgC-s)   | Inverting a matrix is not numerically stable.  |
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- Probability -->
 ### Probability
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- Optimization -->
 ###  Optimization
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Deep Learning -->
 ## Deep Learning
@@ -72,12 +78,14 @@
 | :------------ |:---------------:|
 | [Attention for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=PSs6nxngL6k)     | Why and how to add attention to a basic Sequence-to-Sequence.  |
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 #### Basic Transformer Neural Networks
 | Name  | Short Description |
 | :------------ |:---------------:|
 | [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY&t=1s)     | Illustration of attention is all you need paper.  |
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
