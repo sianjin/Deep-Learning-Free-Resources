@@ -46,7 +46,7 @@ This project aims at listing great free resources that I have read and watched o
 | :------------ |:---------------:|
 | [Attention for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=PSs6nxngL6k)     | Why and how to add attention to a basic Sequence-to-Sequence.  |
 
-## Basic Transformer Neural Networks
+### Basic Transformer Neural Networks
 | Name  | Short Description |
 | :------------ |:---------------:|
 | [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY&t=1s)     | Illustration of attention is all you need paper.  |
