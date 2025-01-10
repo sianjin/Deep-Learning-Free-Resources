@@ -30,6 +30,7 @@
       <ul>
         <li><a href="#linear-algebra">Linear Algebra</a></li>
         <li><a href="#probability">Probability</a></li>
+        <li><a href="#information-theory">Information Theory</a></li>
         <li><a href="#optimization">Optimization</a></li>
       </ul>
     </li>
@@ -64,6 +65,10 @@
 
 <!-- Probability -->
 ### Probability
+
+<!-- Information Theory -->
+### Information Theory
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
