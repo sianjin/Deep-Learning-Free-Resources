@@ -28,7 +28,10 @@
     <li>
       <a href="#math">Math</a>
       <ul>
-        <li><a href="#linear-algebra">Linear Algebra</a></li>
+        <ul>
+          <a href="#linear-algebra">Linear Algebra</a>
+          <li><a href="#linear-algebra">Linear Algebra</a></li>  
+        </ul>
         <li><a href="#probability">Probability</a></li>
         <li><a href="#statistics">Statistics</a></li>
         <li><a href="#information-theory">Information Theory</a></li>
