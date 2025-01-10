@@ -55,7 +55,7 @@
 ### Linear Algebra
 
 #### Linear Equations
-| Name  | Short Description | 
+| Name  | Notes | 
 | :------------ |:---------------:|
 | [Don’t invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)  | Inverting a matrix is expensive.  |
 | [COS 302: Matrix Inversion](https://www.youtube.com/watch?v=5aPP9tGgC-s)   | Inverting a matrix is not numerically stable.  |
@@ -101,7 +101,7 @@
 #### Attention
 This section illustrates why and how to combine attention mechanism with a Sequence-to-Sequence network.
 
-| Name  | Short Description | 
+| Name  | Notes | 
 | :------------ |:---------------:|
 | [Attention for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=PSs6nxngL6k)     |  Great motivation of attention mechanism: which word needs to come first. |
 [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)      | Overview of the difference between Sequence-to-Sequence and Sequence-to-Sequence with attention.  |
@@ -110,7 +110,7 @@ This section illustrates why and how to combine attention mechanism with a Seque
 
 #### Basic Transformers Network Achitecture
 This section illustrates the attention mechanism from the paper "[Attention Is All You Need](https://arxiv.org/abs/1706.03762)".
-| Name  | Short Description | Featured Image |
+| Name  | Notes | Featured Images |
 | :------------ |:---------------:|:---------------:|
 | [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY&t=1s)     | Best illustration of positional encoding and encoder-decoder flow.  | ![alt text](https://github.com/sianjin/Machine-Learning-Free-Resource-Fundamentals/blob/main/images/transformers/positional_encoding_SQ.png) ![alt text](https://github.com/sianjin/Machine-Learning-Free-Resource-Fundamentals/blob/main/images/transformers/encoder_decoder_overview_SQ.png)|
 | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)     | Illustration of attention is all you need paper.  | |
