@@ -57,6 +57,14 @@
           </ul>
         </li>
       </ul>
+      <ul>
+        <li>
+          <a href="#diffusion-models">Diffusion Models</a>
+          <ul>
+            <li><a href="#diffusion">Diffusion</a></li>  
+          </ul>
+        </li>
+      </ul>
     </li>
   </ol>
 </details>
@@ -108,7 +116,6 @@
 <!-- Machine Learning -->
 ## Machine Learning
 
-<!-- Trees -->
 ### Trees
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -124,6 +131,7 @@
 
 <!-- Transformers -->
 ### Transformers
+
 
 #### Attention
 This section illustrates why and how to combine attention mechanism with a Sequence-to-Sequence network.
@@ -144,6 +152,13 @@ This section illustrates the network architecture from the paper "[Attention Is 
 | [The Illustrated Transformer (middle part)](https://jalammar.github.io/illustrated-transformer/)     |  Great answer of what Q, K, V are and their matrix operations. <br> The multi-head attention machanism is also very clear. |![alt text](https://github.com/sianjin/Machine-Learning-Free-Resource-Fundamentals/blob/main/images/transformers/qkv_1_jalammar.png) ![alt text](https://github.com/sianjin/Machine-Learning-Free-Resource-Fundamentals/blob/main/images/transformers/qkv_2_jalammar.png) ![alt text](https://github.com/sianjin/Machine-Learning-Free-Resource-Fundamentals/blob/main/images/transformers/qkv_3_jalammar.png)|
 | [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!! (middle part)](https://www.youtube.com/watch?v=zxQyTK8quyY&t=1s)     | Great illustration of positional encoding and encoder-decoder flow.  | ![alt text](https://github.com/sianjin/Machine-Learning-Free-Resource-Fundamentals/blob/main/images/transformers/positional_encoding_SQ.png)|
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- Diffusion Models -->
+### Diffusion Models
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
