@@ -52,8 +52,8 @@
         <li>
           <a href="#transformers">Transformers</a>
           <ul>
+            <li><a href="#basic-transformers-network-achitecture">Basic Transformers Network Achitecture</a></li> 
             <li><a href="#attention">Attention</a></li>  
-            <li><a href="#basic-transformers-network-achitecture">Basic Transformers Network Achitecture</a></li>  
           </ul>
         </li>
       </ul>
@@ -132,17 +132,6 @@
 <!-- Transformers -->
 ### Transformers
 
-
-#### Attention
-This section illustrates why and how to combine attention mechanism with a Sequence-to-Sequence network.
-
-| Source  | Notes | 
-| :------------ |:---------------:|
-| [Attention for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=PSs6nxngL6k)     |  Great motivation of attention mechanism: which word needs to come first. |
-[Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)      | Overview of the difference between Sequence-to-Sequence and Sequence-to-Sequence with attention.  |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 #### Basic Transformers Network Achitecture
 This section illustrates the network architecture from the paper "[Attention Is All You Need](https://arxiv.org/abs/1706.03762)".
 | Source  | Notes | Featured Images |
@@ -153,6 +142,14 @@ This section illustrates the network architecture from the paper "[Attention Is 
 | [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!! (middle part)](https://www.youtube.com/watch?v=zxQyTK8quyY&t=1s)     | Great illustration of positional encoding and encoder-decoder flow.  | ![alt text](https://github.com/sianjin/Machine-Learning-Free-Resource-Fundamentals/blob/main/images/transformers/positional_encoding_SQ.png)|
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+#### Attention
+This section illustrates why and how to combine attention mechanism with a Sequence-to-Sequence network.
+
+| Source  | Notes | 
+| :------------ |:---------------:|
+[Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)      | Overview of the difference between Sequence-to-Sequence and Sequence-to-Sequence with attention.  |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Diffusion Models -->
 ### Diffusion Models
