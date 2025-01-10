@@ -31,7 +31,7 @@
         <li>
           <a href="#linear-algebra">Linear Algebra</a>
           <ul>
-            <li><a href="#linear-algebra">Linear Algebra</a></li>  
+            <li><a href="#linear-equations">Linear Equations</a></li>  
           </ul>
         </li>
         <li><a href="#probability">Probability</a></li>
