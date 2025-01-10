@@ -1,4 +1,4 @@
-# Machine Learning Free Resources: Fundamentals
+# Machine Learning Online Resources: Fundamentals
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -58,7 +58,7 @@
 #### Linear Equations
 | Source  | Notes |  Featured Images |
 | :------------ |:---------------:|:---------------:|
-| [Don’t invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/) <br> [COS 302: Matrix Inversion](https://www.youtube.com/watch?v=5aPP9tGgC-s) | Inverting a matrix is expensive and not numerically stable. So, when solving linear equations, we don't invert the matrix. Instead, we solve the linear equation using LU decomposition. |  |
+| [Don’t invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/) <br> [COS 302: Matrix Inversion](https://www.youtube.com/watch?v=5aPP9tGgC-s) | Inverting a matrix is expensive and not numerically stable. So, when solving linear equations, we don't invert the matrix. Instead, we solve the linear equation using LU decomposition, iterative solvers, or optimization methods. | ![alt text](https://github.com/sianjin/Machine-Learning-Free-Resource-Fundamentals/blob/main/images/linear-algebra/inverse_matrix_unstable_COS302%20.png) ![alt text](https://github.com/sianjin/Machine-Learning-Free-Resource-Fundamentals/blob/main/images/linear-algebra/solve_linear_equations_COS302%20.png) |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
