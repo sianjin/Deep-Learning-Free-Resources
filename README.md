@@ -52,6 +52,7 @@
         <li>
           <a href="#transformers">Transformers</a>
           <ul>
+            <li><a href="#attention">Attention</a></li>  
             <li><a href="#basic-transformers-network-achitecture">Basic Transformers Network Achitecture</a></li>  
           </ul>
         </li>
