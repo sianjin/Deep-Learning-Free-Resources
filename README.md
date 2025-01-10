@@ -112,7 +112,7 @@ This section illustrates why and how to combine attention mechanism with a Seque
 This section illustrates the attention mechanism from the paper "[Attention Is All You Need](https://arxiv.org/abs/1706.03762)".
 | Name  | Short Description | Featured Image |
 | :------------ |:---------------:|:---------------:|
-| [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY&t=1s)     | Best positional encoding illustration.  | ![alt text](https://github.com/sianjin/Machine-Learning-Free-Resource-Fundamentals/blob/main/images/transformers/positional_encoding_SQ.png)|
+| [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY&t=1s)     | Best illustration of positional encoding and encoder-decoder flow.  | ![alt text](https://github.com/sianjin/Machine-Learning-Free-Resource-Fundamentals/blob/main/images/transformers/positional_encoding_SQ.png) ![alt text](https://github.com/sianjin/Machine-Learning-Free-Resource-Fundamentals/blob/main/images/transformers/encoder_decoder_overview_SQ.png)|
 | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)     | Illustration of attention is all you need paper.  | |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
