@@ -56,10 +56,9 @@
 ### Linear Algebra
 
 #### Linear Equations
-| Source  | Notes | 
-| :------------ |:---------------:|
-| [Don’t invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)  | Inverting a matrix is expensive.  |
-| [COS 302: Matrix Inversion](https://www.youtube.com/watch?v=5aPP9tGgC-s)   | Inverting a matrix is not numerically stable.  |
+| Source  | Notes |  Featured Images |
+| :------------ |:---------------:|:---------------:|
+| [Don’t invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/) [COS 302: Matrix Inversion](https://www.youtube.com/watch?v=5aPP9tGgC-s) | Inverting a matrix is expensive and not numerically stable.  | |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
