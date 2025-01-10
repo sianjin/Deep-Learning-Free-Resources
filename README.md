@@ -49,11 +49,18 @@
     <li>
       <a href="#deep-learning">Deep Learning</a>
       <ul>
-        <li><a href="#transformers">Transformers</a></li>
+        <li>
+          <a href="#transformers">Transformers</a>
+          <ul>
+            <li><a href="#basic-transformers-network-achitecture">Basic Transformers Network Achitecture</a></li>  
+          </ul>
+        </li>
       </ul>
     </li>
   </ol>
 </details>
+
+
 
 <!-- Math -->
 ## Math
