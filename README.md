@@ -145,9 +145,9 @@ This section illustrates the network architecture from the paper "[Attention Is 
 #### Transformer Coding Tutorial
 This section illustrates why and how to combine attention mechanism with a Sequence-to-Sequence network.
 
-| Source  | Notes | 
-| :------------ |:---------------:|
-[Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)      | Coding self-attention from scratch.  |
+| Source  | Notes | Featured Images |
+| :------------ |:---------------:|:---------------:|
+[Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)      | Coding self-attention and cross-attention from scratch.  |  |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
