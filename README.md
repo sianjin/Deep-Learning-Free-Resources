@@ -147,7 +147,7 @@ This section illustrates why and how to combine attention mechanism with a Seque
 
 | Source  | Notes | Featured Images |
 | :------------ |:---------------:|:---------------:|
-[Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)      | Coding self-attention and cross-attention from scratch.  |  |
+[Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)      | Coding self-attention and cross-attention from scratch.  | ![alt text](https://github.com/sianjin/Machine-Learning-Online-Resource-Fundamentals/blob/main/images/transformers/self_attention_from_scratch_1_sebastianraschka.png) |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
