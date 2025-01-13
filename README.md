@@ -53,13 +53,13 @@
           <a href="#transformers">Transformers</a>
           <ul>
             <li><a href="#basic-transformers-network-achitecture">Basic Transformers Network Achitecture</a></li> 
-            <li><a href="#attention">Attention</a></li>  
+            <li><a href="#transformer-coding-tutorial">Transformer Coding Tutorial</a></li>  
           </ul>
         </li>
       </ul>
       <ul>
         <li>
-          <a href="#diffusion-models">Diffusion Models</a>
+          <a href="#generative-models">Generative Models</a>
           <ul>
             <li><a href="#diffusion">Diffusion</a></li>  
           </ul>
@@ -142,17 +142,17 @@ This section illustrates the network architecture from the paper "[Attention Is 
 | [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!! (middle part)](https://www.youtube.com/watch?v=zxQyTK8quyY&t=1s)     | Great illustration of positional encoding and encoder-decoder flow.  | ![alt text](https://github.com/sianjin/Machine-Learning-Free-Resource-Fundamentals/blob/main/images/transformers/positional_encoding_SQ.png)|
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### Attention
+#### Transformer Coding Tutorial
 This section illustrates why and how to combine attention mechanism with a Sequence-to-Sequence network.
 
 | Source  | Notes | 
 | :------------ |:---------------:|
-[Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)      | Overview of the difference between Sequence-to-Sequence and Sequence-to-Sequence with attention.  |
+[Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)      | Coding self-attention from scratch.  |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Diffusion Models -->
-### Diffusion Models
+<!-- Generative Models -->
+### Generative Models
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
